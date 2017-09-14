@@ -1,0 +1,17 @@
+div{
+    color: orangered;
+    text-align: left;
+    word-spacing: 10px;
+    width: auto
+}
+header{
+    background: black;
+}
+ .leftdiv{
+     float: left;
+    width: 50%;
+}
+.rightdiv{
+    float: left;
+    width:50%; 
+}
